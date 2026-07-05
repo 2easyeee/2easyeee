@@ -8,8 +8,8 @@
 ### Languages & Engine
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![DirectX11](https://img.shields.io/badge/DirectX11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![DirectX9](https://img.shields.io/badge/DirectX9-0078D6?style=flat-square&logo=windows&logoColor=white)
+![DirectX11](https://img.shields.io/badge/DirectX11-0078D6?style=flat-square)
+![DirectX9](https://img.shields.io/badge/DirectX9-0078D6?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ### Tools
