@@ -1,4 +1,6 @@
-# Hi, I'm 2easyeee 👋
+### Hi, there 👋
+
+[![Email](https://img.shields.io/badge/Email-2easyeee%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2easyeee@gmail.com)
 
 안녕하세요. 이지희입니다.
 게임 클라이언트 개발을 공부하고 있습니다.
@@ -21,10 +23,6 @@
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2easyeee&show_icons=true&theme=default)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2easyeee@gmail.com)
 
 <!--
 **2easyeee/2easyeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
