@@ -5,7 +5,7 @@
 안녕하세요. 이지희입니다.
 게임 클라이언트 개발을 공부하고 있습니다.
 
-## Tech Stack
+## Skills
 
 ### Languages & Engine
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -19,10 +19,6 @@
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2easyeee&show_icons=true&theme=default)
 
 <!--
 **2easyeee/2easyeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
