@@ -1,11 +1,11 @@
-### Hi, there 👋
+### Hi there 👋
 
 [![Email](https://img.shields.io/badge/Email-2easyeee%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2easyeee@gmail.com)
 
-안녕하세요. 이지희입니다.
+안녕하세요. 이지희입니다.<br>
 게임 클라이언트 개발을 공부하고 있습니다.
 
-## Skills
+## 🛠️ Skills
 
 ### Languages & Engine
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
